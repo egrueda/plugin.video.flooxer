@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <setting id="force_thumb" type="bool" default="false" label="Mostrar como miniaturas (solo Confluence)"/>
+</settings>

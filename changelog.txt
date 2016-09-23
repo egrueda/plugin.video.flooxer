@@ -1,0 +1,9 @@
+[B]1.1.0 (23/09/2016)[/B]
+- Optimizado funcionamiento
+- Ajustes para forzar miniaturas
+- Iconos y fondo
+- Licencia GPL3
+- Limpieza de código
+
+[B]1.0.0 (22/09/2016)[/B]
+- Primera versión funcional
