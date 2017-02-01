@@ -1,3 +1,8 @@
+[B]1.2.0 (01/02/2017)[/B]
+- Navegacion por categorias
+- Opcion para habilitar debug
+- Nuevo icono
+
 [B]1.1.0 (23/09/2016)[/B]
 - Optimizado funcionamiento
 - Ajustes para forzar miniaturas
